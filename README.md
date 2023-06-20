@@ -24,19 +24,19 @@
 
 <h2>💻Tech Stack</h2>
 
-!Dart !HTML5 !CSS3 !C++ !Firebase !Flutter !Laravel
+!Dart !HTML5 !CSS3 !C++ !Firebase !Flutter 
 
 <h2>📊GitHub Stats :</h2>
 
 
-![](https://github-readme-stats.vercel.app/api?username=arslan325&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arslan325&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan325&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=zunera-adil&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zunera-adil&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zunera-adil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <h2>🏆GitHub Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=arslan325&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=zunera-adil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h3> ✍️Random Dev Quote</h3>
 
