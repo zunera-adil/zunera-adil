@@ -18,7 +18,7 @@
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "50px" height ="50px"> Socials</h2>
 
-![Behance][LinkedIn] (https://www.linkedin.com/in/zunera-adil-56bb98203) 
+[LinkedIn] (https://www.linkedin.com/in/zunera-adil-56bb98203) 
   
   
 
