@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Arslan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Zunera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
   <center><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;JavaScript+Developer;Node+JS+Developer&center=true&width=500&height=50" width = "100%"></center>
   
@@ -6,19 +6,19 @@
 <h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2>
 
 🔭 I’m currently working on Flutter <br>
-🌱 I’m currently learning Laravel & Flutter <br>
+🌱 I’m currently learning Flutter <br>
 👯 I’m looking to collaborate on GitHub. <br>
 🤔 I’m looking for help with Flutter <br>
 💬 Ask me about Flutter <br>
-📫 How to reach me: Instagram - @arslan325. <br>
-😄 Pronouns: He/His <br>
+📫 How to reach me: LinkedIn  -(https://www.linkedin.com/in/zunera-adil-56bb98203) <br>
+😄 Pronouns: She/Her <br>
 ⚡ Fun fact: I am always learning something new
 
     
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "50px" height ="50px"> Socials</h2>
 
-![Behance](https://www.behance.net/muhammadarslan87) ![Instagram](https://www.instagram.com/maherarslan325) ![LinkedIn](https://www.linkedin.com/in/muhammad-arslan-6191b4176) 
+![Behance][LinkedIn] (https://www.linkedin.com/in/zunera-adil-56bb98203) 
   
   
 
