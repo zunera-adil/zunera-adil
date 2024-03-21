@@ -6,12 +6,10 @@
 <h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2>
 
 🔭 I’m currently working as a flutter dev. <br>
-🌱 I’m currently learning Flutter. <br>
-👯 I’m looking to collaborate on GitHub for exciting and new projects. <br>
+👯 I’m looking to collaborate for exciting and new projects. <br>
 🤔 I’m looking for help with Flutter. <br>
 💬 Ask me anything about Flutter and how to be a team player. <br>
 📫 How to reach me: LinkedIn  -(https://www.linkedin.com/in/zunera-adil-56bb98203) or email me at -(zunera.adil9898@gmail.com) <br>
-😄 Pronouns: She/Her <br>
 ⚡ Fun fact: Always an enthusiastic learner and always looking for something new to learn.
 
     
